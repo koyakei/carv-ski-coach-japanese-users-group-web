@@ -17,7 +17,7 @@ lv 15　ぐらいまでは初心者ならテールを振るだけで合格しま
 - keep maintain one ski
 - do not touch both ski at once
 - keep do not touch your both ski
-### 　踏み替えタイミング
+### 踏み替えタイミング
 ターン方向と接雪している側が一致しているか？
 #### 失敗したときのadvice voice
 - keep pressure on outside ski
@@ -57,7 +57,7 @@ lv 20 で 90度以上回す必要がある。回しすぎても不合格には�
 - [厳密な定義](https://docs.google.com/document/d/e/2PACX-1vTPt6CbOq4XuFlXdj2GuUOa5nttZgnrxlEqlorlQNxuTBWG0d03-sg5XZUX0f8UcrN93CsFU6uiD0Uo/pub)
 # fore after balance
 前後加重の調整
-##　合否判定
+## 合否判定
 ### エッジ角が足りているか？
 #### 失敗したときのadvice voice
 - try to increase your edge angle
