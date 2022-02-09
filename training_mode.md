@@ -65,6 +65,7 @@ lv 20 で 90度以上回す必要がある。回しすぎても不合格には�
 できるだけ高い姿勢で、胴体を進行方向に向けて重心移動のみで板を回す。
 - [細かい解説](https://docs.google.com/document/d/e/2PACX-1vTREbzTJ05E1_VHREdIOGGbHIBciCViv6faJiQ4FMYfYzVOORuKyfoDoPAfPMGU_iPHdTyth47vXHUv/pub)
 - [厳密な定義](https://docs.google.com/document/d/e/2PACX-1vTPt6CbOq4XuFlXdj2GuUOa5nttZgnrxlEqlorlQNxuTBWG0d03-sg5XZUX0f8UcrN93CsFU6uiD0Uo/pub)
+
 # fore after balance
 前後加重の調整
 ## 合否判定
