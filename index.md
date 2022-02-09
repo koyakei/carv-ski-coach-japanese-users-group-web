@@ -32,4 +32,8 @@ android は [この機種](https://help.getcarv.com/en/articles/4621973-android-
 # その他機能
 iOS ヘルスケアアプリ連携
 
+# ビデオ教材
+[プロスキーヤーわたる](https://youtu.be/-QfiVrhZFtM)
+[井上NZSIAナショナルデモ](https://www.youtube.com/watch?v=VQEFH8Q-CN8&list=PLO7NcdLgqnkL1071hhEiTu2Q0Y0sMDHgq&t=0s)
+
 # 難しめのコンテンツ
