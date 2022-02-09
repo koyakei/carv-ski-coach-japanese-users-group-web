@@ -4,4 +4,4 @@
 
 # 各モードの説明
 ## Free ski
-## [training mode](/training_mode)
+## [training mode](training_mode)
