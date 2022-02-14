@@ -1,4 +1,4 @@
-
+{% gtm head %}
 
 # 購入割引
 割引コード CARVLIKEKEISUKE
