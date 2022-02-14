@@ -50,14 +50,16 @@ level 20 で 28 度必要
 lv 20 ではすこしでも引っかかると不合格
 #### 失敗したときのadvice voice
 - swing your ski same speed
+- maintain speed
 
 ### ロール角の同調
 lv 20 で 瞬間的に 5度違うと不合格
 #### 失敗したときのadvice voice
 - keep same edge angle
+- roll your leg same timing
 
 ### ヨーイング角が進行方向に対して十分に回っているか？
-lv 20 で 90度以上回す必要がある。回しすぎても不合格にはならないので210度振る。
+lv 20 で 片側90度合計180度以上回す必要がある。回しすぎても不合格にはならないので210度振る。
 #### 失敗したときのadvice voice
 - rotate your ski more
 
@@ -72,24 +74,27 @@ lv 20 で 90度以上回す必要がある。回しすぎても不合格には�
 ### エッジ角が足りているか？
 #### 失敗したときのadvice voice
 - try to increase your edge angle
+- you need higher edge angle
 
 ### 前半の足の前部への加重ができているか？
 ターン切り替え後ターンマックスを超えるまでに、外足の圧力センサーで計測した圧力の中心の平均が拇指球と小指球の間にあるかどうか？
 #### 失敗したときのadvice voice
 - try to keep athletic stance
-- more forward
+- move forward
 - press your toe
 
 ### 後半の足の後部への加重ができているか？
 ターンマックスからターン切り替えまでに、外足の圧力センサーで計測した圧力の中心の平均が踵にあるか？
 #### 失敗したときのadvice voice
-- weight to tack back
+- try to keep athletic stance
+- keep your weight to tack back
 - heel pressure
 
 ### 加重移動がなめらかか？
 平均が合格基準でも、加重中心が前後にぶれたり、移動方向がギザギザだと不合格
 #### 失敗したときのadvice voice
-- move your weight smoothly
+- move your weight smoothly.
+- maintain your balance, throughout the turn.
 
 ## 正しいやり方
 腰高でやる
