@@ -5,3 +5,4 @@ google:
 title: CARV ski　使い方
 plugins:
   - jekyll-sitemap
+  - jekyll-google-tag-manager
