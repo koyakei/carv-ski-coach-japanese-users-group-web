@@ -1,5 +1,8 @@
 theme: jekyll-theme-leap-day
-google_analytics: G-4SE9ZXN3X8
+google:
+  tag_manager:
+    container_id: GTM-MJS2JQL
+  google_analytics: G-4SE9ZXN3X8
 title: CARV ski　使い方
 plugins:
   - jekyll-sitemap
