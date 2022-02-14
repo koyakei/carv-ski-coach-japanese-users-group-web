@@ -1,7 +1,8 @@
-{{ gtm body }}
+
 # CARV digital ski coach 使い方
 - [facebook 日本語　グループ](https://www.facebook.com/groups/3614432661980637)
 - [本家公式](https://getcarv.com/?rfsn=6298461.1001dbb&utm_source=affiliate&utm_medium=refersion&utm_campaign=referral)
+
 # 購入割引
 割引コード CARVLIKEKEISUKE
 # サポート
@@ -20,7 +21,7 @@ android は [この機種](https://help.getcarv.com/en/articles/4621973-android-
 # [性能](spec)
 # 有効な雪質
 底なしパウダーやコブの中でも有効な指標があります。
-
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 # 各モードの説明
 ## Free ski
 ## [training mode](training_mode)
