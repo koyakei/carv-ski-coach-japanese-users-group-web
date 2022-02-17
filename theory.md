@@ -8,4 +8,7 @@
 # 参考図書
 - [NZSIA 教科書](https://www.nzsia.org/downloads/)
 - [canadian SIA text](https://www.snowpro.com/en/resources-public)
+- Morgan Eagel  の動画
+- [スキーのドメインモデリング](https://github.com/koyakei/shintaido/tree/main/src/main/kotlin/ridingSports)
+- [K and K 理論](https://www.youtube.com/channel/UCS3DXykPqMKTrRgb20a56ag)
 
