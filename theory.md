@@ -12,3 +12,5 @@
 - [スキーのドメインモデリング](https://github.com/koyakei/shintaido/tree/main/src/main/kotlin/ridingSports)
 - [K and K 理論](https://www.youtube.com/channel/UCS3DXykPqMKTrRgb20a56ag)
 
+# 理想状態
+[理想状態](ideal_condition)に単純化する。
