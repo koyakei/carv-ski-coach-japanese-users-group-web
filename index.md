@@ -48,7 +48,7 @@ android は [この機種](https://help.getcarv.com/en/articles/4621973-android-
 全て音声フィードバックがあります。
 画面では詳細が確認できます。
 
-## Free ski
+## [Free ski ski IQ](ski_IQ)
 滑り終わるごとに総合的なアドバイスをくれます。
 
 ## [training mode](training_mode)
