@@ -37,18 +37,21 @@
 - balance を高得点にキープしたまま、リズムを変化させることで、どれぐらい点が変わるか比べる。
 
 # 変更履歴
+
+## 19 - 20
+
+- 創設
+- ランキング戦開始
+
 ## 20-21
 
-- foot roll 導入
-- turn shape 導入
+- ランキングがゲレンデごとに出るようになった
 
 ## 21-22
 
-- forward stance -> start of turn 改名
-- end of turn 導入
-- toppling 導入
-- foot roll 消去
-- outside ski pressure の理想値が 70 - 80 から 100 へ　内容も少し変化している模様　ノイズに強くなった
-- rotary 削除　高速時に磁気センサーのノイズが大きすぎたため開発を放棄
+- outside ski pressure, edge angle, edge similarity 　の比重増加　よりどの斜面でも難しいことに比重を置くようになった。
+- 点数が10点ぐらい150以上の人は下がった
+- 過去の走行を再評価
+- 低得点を無視　あまりうまく機能していない
 - 小回り時に加点
 

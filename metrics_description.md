@@ -48,3 +48,16 @@
 ## parallel ski
 yawing と edge similarity も考慮した スキーの平行度　ヨーイングは振動で不正確になるのだが、何で補正しているのか不明。
 ボコボコしていると信頼性が下がる。
+
+## 20-21
+
+- foot roll 導入
+- turn shape 導入
+
+## 21-22
+
+- forward stance -> start of turn 改名
+- end of turn 導入
+- toppling 導入
+- foot roll 消去
+- rotary 削除　高速時に磁気センサーのノイズが大きすぎたため開発を放棄
