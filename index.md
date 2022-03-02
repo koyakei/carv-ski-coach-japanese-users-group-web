@@ -68,7 +68,9 @@ iOS ヘルスケアアプリ連携
 
 # ビデオ教材
 - [プロスキーヤーわたる](https://youtu.be/-QfiVrhZFtM)
-- [井上NZSIAナショナルデモ](https://www.youtube.com/watch?v=VQEFH8Q-CN8&list=PLO7NcdLgqnkL1071hhEiTu2Q0Y0sMDHgq&t=0s)
+- [井上 NZSIA ナショナルデモ](https://www.youtube.com/watch?v=VQEFH8Q-CN8&list=PLO7NcdLgqnkL1071hhEiTu2Q0Y0sMDHgq&t=0s)
 
 # 難しめのコンテンツ
 [理論](theory)
+
+# [トラブル解決](trouble_shooting)
