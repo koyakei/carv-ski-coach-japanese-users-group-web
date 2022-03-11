@@ -77,24 +77,35 @@ lv 20 で 片側90度合計180度以上回す必要がある。回しすぎて�
 # fore after balance
 前後加重の調整
 ## 合否判定
+
 ### エッジ角が足りているか？
+
+レベル20 で 30 度
 #### 失敗したときのadvice voice
 - try to increase your edge angle
 - you need higher edge angle
 
-### 前半の足の前部への加重ができているか？
-ターン切り替え後ターンマックスを超えるまでに、外足の圧力センサーで計測した圧力の中心の平均が拇指球と小指球の間にあるかどうか？
+### 前に行き過ぎ
+fore after monitor mode にてスコアが60を超える <
 #### 失敗したときのadvice voice
 - try to keep athletic stance
 - move forward
 - press your toe
 
-### 後半の足の後部への加重ができているか？
-ターンマックスからターン切り替えまでに、外足の圧力センサーで計測した圧力の中心の平均が踵にあるか？
+### 後ろに加重しすぎ
+fore after monitor mode にてスコアが < 50未満   == 49以下
+ターンマックスからターン切り替えまでに、外足の圧力センサーで計測した圧力の中心の平均が踵にあるか？だと思ったが、これは間違い。
+
 #### 失敗したときのadvice voice
 - try to keep athletic stance
 - keep your weight to tack back
 - heel pressure
+
+#### 検証方法
+モニターモードで平均55 かつ８割を 50 - 60 にして滑走した走行のバランススコアの start of turn, end of turn スコアがほぼ50であった。
+そのバランスのままトレーニングモードをすると、連続して合格する。[合格時の動画](https://youtu.be/oqRa1nyLVy0?t=293)
+![モニターモードのグラフ]({{site.baseurl}}/images/fore-after-ration-graph.jpeg)
+したがって、ski iq の balance スコアとは全く別の要素で採点している事がわかった。
 
 ### 加重移動がなめらかか？
 平均が合格基準でも、加重中心が前後にぶれたり、移動方向がギザギザだと不合格
