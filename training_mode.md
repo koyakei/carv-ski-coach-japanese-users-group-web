@@ -104,7 +104,7 @@ fore after monitor mode にてスコアが < 50未満   == 49以下
 #### 検証方法
 モニターモードで平均55 かつ８割を 50 - 60 にして滑走した走行のバランススコアの start of turn, end of turn スコアがほぼ50であった。
 そのバランスのままトレーニングモードをすると、連続して合格する。[合格時の動画](https://youtu.be/oqRa1nyLVy0?t=293)
-![モニターモードのグラフ]({{site.baseurl}}/images/fore-after-ration-graph.jpeg)
+![モニターモードのグラフ]({{site.baseurl}}/assets/images/fore-after-ration-graph.jpeg)
 したがって、ski iq の balance スコアとは全く別の要素で採点している事がわかった。
 
 ### 加重移動がなめらかか？
