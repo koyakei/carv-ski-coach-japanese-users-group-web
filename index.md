@@ -63,6 +63,8 @@ android は [この機種](https://help.getcarv.com/en/articles/4621973-android-
 
 # [指標解説](metrics_description)
 
+# [Inline Skate](inline_skate)
+
 # その他機能
 iOS ヘルスケアアプリ連携
 
