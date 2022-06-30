@@ -66,6 +66,22 @@ To do it, keep center of mass on center wheel, then press toe with pitching mome
 ## move center of mass to foll line
 In turn max to end, move center of mass to fall line with heel pressure, not roll recovery.
 
-## do not use front side of knee
+## do not use front side muscle and tendon of knee
 If you use this muscle, easy to injure and tiered.
+
+## keep heel pressure after turn switch
+In flat inline to keep outside pressure, easy to tend lift your one ski from road longer than snow.
+But that is makes low outside ski pressure, because of gravity does not help you on flat road.
+To avoid this, maintain heep pressure and grip only 2nd wheel from tail, then make smaller radius turn in turn end.
+Or in turn max, thrust your center of mass to fall line with heel pressure.
+
+## wide stance
+Carv does not have precise to detect 0.5 second turn outside ski pressure correctly.
+So to keep good edge similarity and outside ski pressure both, maintain both ski on road and reduce pressure both at once.
+To do this wide stance and release outside ski pressure just after turn switched, then contact next outside ski after 60ms.
+
+In addition, wide stance makes big early edging score.
+
+## bending turn
+That is one way of training. Usually you should skate with stretching turn, but to learn move weight to fall line side, bending turn is very helpful.
 
