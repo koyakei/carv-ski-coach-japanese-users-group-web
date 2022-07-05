@@ -17,7 +17,7 @@ What is the good point of training on flat road.
 On slope moving the center of mass to fall line can be helped by gravity, but on flat road, there is not.
 In this situation, if you brake the speed in turn end wih moving the center of mass against fall line, you can slow down immediately.
 
-## No lift waiting
+## No chair lift waiting
 6 hours ski, 1 hour on slope.
 1 hour pumping on flat road, 1 hour parallel ski.
 
