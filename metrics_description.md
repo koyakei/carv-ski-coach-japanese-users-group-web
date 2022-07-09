@@ -80,7 +80,8 @@ I can push my body to next turn only by outside ski pressure before intermediate
 
 
 ## turn comparison
-左右差
+左右差 
+balance of average of outside ski pressure score, not considering balance of pressure smoothness.
 
 # rotary
 ## turn shape

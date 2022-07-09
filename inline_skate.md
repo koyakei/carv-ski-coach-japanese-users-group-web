@@ -84,4 +84,3 @@ In addition, wide stance makes big early edging score.
 
 ## bending turn
 That is one way of training. Usually you should skate with stretching turn, but to learn move weight to fall line side, bending turn is very helpful.
-
