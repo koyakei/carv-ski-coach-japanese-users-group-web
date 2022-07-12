@@ -43,6 +43,9 @@ In this graph is around 90 - 100.
 # edging 
 ## early edging 
 ターン前半でどれだけエッジ角が増えているか？　かなり正確
+これが減るときは、ターンの切り替え時に重心が雪面に対して垂直よりもゴールと逆側に離れている量が大きいことが原因である。
+ターン前半での角速度が大きいほどこの数値が増えるということは、角速度が大きくなってから切り替えれば良い。
+倒す速度全体を大きくする必要はないのである。
 
 How much the edge angle was increased at the start of the turn, in one movement. This metric has big noise endurance.
 
@@ -71,6 +74,9 @@ Easily reaches 100 when you on inline skate.
 瞬間的な圧力の大きさを考慮していた、2020-21 シーズンから指標の改定あり。
 大きければ大きいほどよい。指標の設計者は80以上を理想としている。
 ターン後半で内足に乗るとスコアがとても低下する。
+このスコアが低い場合、踏む強さよりも踏み終わるタイミングが早いことが原因の場合が多い。
+ターン後半まで踏み続けて次のターンまで圧力が突き抜けているグラフが表示される段階になってから、ターン前半からの踏み込みを意識すると良い。
+
 
 Sum of time duration in one turn when the outside ski pressure was higher than 8:2.
 That is easily get low score when you were raising your body by inside ski pressure in turn end.
@@ -80,7 +86,7 @@ I can push my body to next turn only by outside ski pressure before intermediate
 
 
 ## turn comparison
-左右差 
+左右差 これは outside ski pressure の数値の左右差である。
 balance of average of outside ski pressure score, not considering balance of pressure smoothness.
 
 # rotary
@@ -112,3 +118,8 @@ but this feature has big noise endurance than only yawing.
 - 導入　toppling is in
 - 削除　foot roll is out
 - 削除　rotary is out　高速時に磁気センサーのノイズが大きすぎたため開発を放棄
+
+# ベンディングとストレッチングの使い分けの基準
+ターン後半で体をスキーの進行方向に対してロールする力が足りないときに、雪面と重心の距離を近くすることで、ターン切替時に雪面に対して垂直に重心を持っていくことがベンディング。
+ストレッチングだと、ロールするために重心を次のターンの内側に運ぶ筋力がより大きく要求される。
+
