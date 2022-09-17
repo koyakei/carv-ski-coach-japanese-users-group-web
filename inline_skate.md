@@ -76,11 +76,17 @@ To avoid this, maintain heep pressure and grip only 2nd wheel from tail, then ma
 Or in turn max, thrust your center of mass to fall line with heel pressure.
 
 ## wide stance
-Carv does not have precise to detect 0.5 second turn outside ski pressure correctly.
-So to keep good edge similarity and outside ski pressure both, maintain both ski on road and reduce pressure both at once.
-To do this wide stance and release outside ski pressure just after turn switched, then contact next outside ski after 60ms.
+Carv does not have preciseness to detect very short (0.5 second per one) turn.
+And Carv preciseness of detect turn switching is 0.1 second.
+Rider can't know what timing is Carv define turn switching more than 0.1 second preciseness, so improve score rider must seek workaround.
+So to avoid error then keep good edge similarity and outside ski pressure both, maintain both ski touched on road and reduce pressure both at once.
+During reduce pressure both at once, change yaw rotation rate significantly enough to tell turn switching to Carv. 
+To do this improve roll angular momentum by wide stance for improve and release outside ski pressure just after turn switched, then contact next outside ski after 60ms.
 
 In addition, wide stance makes big early edging score.
+
+Why wider stance makes grater roll angular momentum.
+If there is no horizontal distance between supporting basis and center of mass cause there is no angular momentum.
 
 ## bending turn
 That is one way of training. Usually you should skate with stretching turn, but to learn move weight to fall line side, bending turn is very helpful.
