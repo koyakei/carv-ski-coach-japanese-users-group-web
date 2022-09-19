@@ -69,9 +69,9 @@ lv 20 で 片側90度合計180度以上回す必要がある。回しすぎて�
 #### 失敗したときのadvice voice
 - rotate your ski more
 
-## 正しいやり方
-できるだけ高い姿勢で、胴体を進行方向に向けて重心移動のみで板を回す。
-- [細かい解説](https://docs.google.com/document/d/e/2PACX-1vTREbzTJ05E1_VHREdIOGGbHIBciCViv6faJiQ4FMYfYzVOORuKyfoDoPAfPMGU_iPHdTyth47vXHUv/pub)
-- [厳密な定義](https://docs.google.com/document/d/e/2PACX-1vTPt6CbOq4XuFlXdj2GuUOa5nttZgnrxlEqlorlQNxuTBWG0d03-sg5XZUX0f8UcrN93CsFU6uiD0Uo/pub)
+## 細かい理論
+
+[横滑りからの方向転換の正しいやり方と、なぜこれを正しくできなければならないのか？
+やるとどんな良いことがあるのかを説明する。](pivot_slip)
 
 # [fore after balance](training_mode/fore_after_ratio_training_mode)
