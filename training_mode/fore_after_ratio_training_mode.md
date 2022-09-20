@@ -10,7 +10,8 @@
 - you need higher edge angle
 
 ### 前に行き過ぎ
-fore after monitor mode にてスコアが60を超える <
+fore after monitor mode にてスコアが60を超える
+
 #### 失敗したときのadvice voice
 - try to keep athletic stance
 - move forward
