@@ -34,3 +34,4 @@
 - [ポンピングトラック](pumping_track)
 - [スケーティング](skating)
 - [ターン局面ごとの前後方向の正しい加重中心](point_of_fore_after_pressure_center)
+- [前後方向の正しい加重中心の位置](point_of_fore_after_pressure_center)
