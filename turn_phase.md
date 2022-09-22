@@ -29,4 +29,6 @@
 深さ最大と最低
 
 # スキーの角度による定義
-roll yaw pitch
+- roll 
+- yaw
+- pitch
