@@ -23,10 +23,13 @@
 
 # 靴の選び方
 
-# [膝関節を守る滑走法](how_to_avoid_acl_injury)
+# 理論いろいろ
 
+- [良い理論とはなんだろう](good_ski_theory.md)
+- [いろいろな座標系](axis)
+- [膝関節を守る滑走法](how_to_avoid_acl_injury)
 - [乗り物に力を伝える方法](乗り物に力を伝える方法)
-- [ターン局面の定義](turn_phase.md)
+- [アルペン姿勢](ski_stance)
 - [前後方向の重心移動](fore_after_mass_shift_on_ski)
 - [スキーを抑える力とズレにくさの関係](improve_edge_grip)
 - [スキーを雪面に押さえつける力が同じなら、同じぐらいずれないくい？](edge_grirp)
