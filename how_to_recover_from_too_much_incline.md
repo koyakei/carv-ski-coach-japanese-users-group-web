@@ -35,4 +35,16 @@
 スキーがフォールライン方向からターン内側に向くごとにスキーに対してロール方向がフォールライン方向へのピッチングになるので、それを考慮して、スキーのローリング角運動量を増やす操作をピッチングに比べて増やす。
 
 
+# How to recover from too much incline
+
+On inline skate that is difficult to yawing. Because of high friction.
+Yawing is difficult with keep toe and heel pressure at once.
+So increase inertial yawing moment from start of turn.
+To increase the power, toe pressure a lot in start of turn. Until timing A.
+Then finish the intentional press toe press until A, then start pitching with intentional heel pressure until B.
+Between A and B, ski rebound you, so transform the rebound to thrusting power do not release toe pressure. But relatively heel pressure is increasing.
+From B maximum hell pressure until turn end. Keep pitching to down side of fall line, not to top of ski after B.
+Keep inertial yawing power through out of turn, if the inline skate toe and heel wheel have touched road at once, skate could continue yawing. Yawing faster than skate goes down side of fall line is key point of outside pressure.
+Do not yawing with knee twisting. Knee joint is twisted by skate yawing power.
+![how to recover]({{site.baseurl}}/assets/images/how_to_recover_from_incline.jpg)
 
