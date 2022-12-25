@@ -78,7 +78,16 @@ In this graph is around 90
 
 How much the edge angle was increased at the start of the turn, in one movement. This metric has big noise endurance.
 
+次の支持基底点と重心の位置をフォールライン上から見てできるだけ離す。
+支持基底点は重心よりも山側にあるとする。
 
+具体的な手順
+ターン切り替え前に重心をめいいっぱい谷側に持っていく
+ターン始動時のトップ加重が維持できる範囲で、スタンスを広げる。
+次の内足が倒れるのを邪魔しないように内足の膝下をを思い切り内転させて足が浮くぐらいガニ股になる。
+
+平地のインラインではこれだけで平均60まで持っていけるはず。より点数を上げたいならくの字になる操作を行うがそれは異常系なので積極的にやらない方がいい。遊びで少々倒して平地でも70以上は1ターン限りならいつでも出せるようにしておくと良い。
+この指標は意外に正確である。斜度１２度あるなら９９以上で安定して巡航できるように練習するべき。
 
 ## edge smoothness
 エッジ角の変化がどれだけスムーズか　足がガタガタして振られるだけですぐに低下します。
@@ -86,6 +95,7 @@ How much the edge angle was increased at the start of the turn, in one movement.
 
 How the roll angle changing was smooth. This metric has little noise endurance.
 Easily reaches 100 when you on inline skate.
+
 
 ## similarity
 右エッジ角 / 左エッジ角　がどれぐらい1に近いか？
