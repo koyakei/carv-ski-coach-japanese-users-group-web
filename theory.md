@@ -40,3 +40,4 @@
 - [前後方向の正しい加重中心の位置](point_of_fore_after_pressure_center)
 - [ターン前半で内倒しすぎたらどうするか？](how_to_recover_from_too_much_incline)
 - [高下駄でのバランストレーニング](balance_trainig_with_free_line_skate)
+- [ブーツ　足](boots)
