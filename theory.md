@@ -41,3 +41,4 @@
 - [ターン前半で内倒しすぎたらどうするか？](how_to_recover_from_too_much_incline)
 - [高下駄でのバランストレーニング](balance_trainig_with_free_line_skate)
 - [踵で推進力を得てピッチングアップダウンせずにターンエンドまで加速する](how_to_thrust_with_pumping)
+- [ブーツ](boots)
