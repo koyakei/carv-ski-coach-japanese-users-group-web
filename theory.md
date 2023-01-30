@@ -42,3 +42,4 @@
 - [高下駄でのバランストレーニング](balance_trainig_with_free_line_skate)
 - [踵で推進力を得てピッチングアップダウンせずにターンエンドまで加速する](how_to_thrust_with_pumping)
 - [ブーツ](boots)
+- [雪面へ張り付く](improve_contact_to_road)
