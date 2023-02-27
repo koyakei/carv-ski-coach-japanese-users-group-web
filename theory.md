@@ -43,3 +43,4 @@
 - [踵で推進力を得てピッチングアップダウンせずにターンエンドまで加速する](how_to_thrust_with_pumping)
 - [ブーツ](boots)
 - [雪面へ張り付く](improve_contact_to_road)
+- [ターン方向の定義](discrimination_between_left_and_right_turn)
