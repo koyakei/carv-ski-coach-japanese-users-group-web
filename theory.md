@@ -45,3 +45,4 @@
 - [雪面へ張り付く](improve_contact_to_road)
 - [ターン方向の定義](discrimination_between_left_and_right_turn)
 - [Chat AI をスノースポーツで使う](chat_ai_on_ski)
+- [ストックワーク](pole_plant)
