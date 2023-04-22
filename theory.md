@@ -46,3 +46,4 @@
 - [ターン方向の定義](discrimination_between_left_and_right_turn)
 - [Chat AI をスノースポーツで使う](chat_ai_on_ski)
 - [ストックワーク](pole_plant)
+- [カービングにおける原則](how_to_slow_down_in_carving)
