@@ -32,7 +32,7 @@
 - [アルペン姿勢](ski_stance)
 - [前後方向の重心移動](fore_after_mass_shift_on_ski)
 - [スキーを抑える力とズレにくさの関係](improve_edge_grip)
-- [スキーを雪面に押さえつける力が同じなら、同じぐらいずれないくい？](edge_grirp)
+- [スキーを雪面に押さえつける力が同じなら、同じぐらいずれにくい？](edge_grirp)
 - [ターン局面の定義](turn_phase)
 - [ポンピングトラック](pumping_track)
 - [スケーティング](skating)

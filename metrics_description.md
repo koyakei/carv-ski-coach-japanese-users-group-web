@@ -27,6 +27,10 @@ looks at what percentage of the inside movement of the CoP was at the start of t
 
 in 0-33% of X how much outside normalized sideways CoP movement is achieved.
 
+### Why topple is needed
+膝関節中心から横方向のスキーセンターに対して1mm以下の誤差になるような精度で力を加える。なおかつエッジが立っていて支持基底点はエッジにあるとする。
+その場合、ロール角を減少させてエッジを完全に寝かせる方向に引き起こす力が働く。それを打ち消す反力を膝関節からスキーセンターに対して押す力の方向を変えずに発生させるために、拇指球に加重中心を移動させるのがTopple である。
+
 ## start of turn
 
 前後方向の加重中心がターン前半 ２０％ でどれだけ前に行っているか？
