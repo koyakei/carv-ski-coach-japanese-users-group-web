@@ -19,7 +19,7 @@
 
 ## [バランス](balance)
 
-## 足の形の整え方
+## [足の形の整え方](foot_shape_training.md)
 
 # 靴の選び方
 
