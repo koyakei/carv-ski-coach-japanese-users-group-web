@@ -48,3 +48,4 @@
 - [ストックワーク](pole_plant)
 - [カービングにおける原則](how_to_slow_down_in_carving)
 - [フリーラインスケートにおけるスネーク走行](snake_turn_with_free_line_skate)
+- [ローテーション](rotation)
