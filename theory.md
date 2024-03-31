@@ -50,3 +50,4 @@
 - [フリーラインスケートにおけるスネーク走行](snake_turn_with_free_line_skate)
 - [ローテーション](rotation)
 - [スキーの操作方法](how_to_control_ski)
+- [ドルフィンターン](how_to_dolphin_turn)
