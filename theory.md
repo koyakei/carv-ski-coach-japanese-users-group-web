@@ -52,3 +52,4 @@
 - [スキーの操作方法](how_to_control_ski)
 - [ドルフィンターン](how_to_dolphin_turn)
 - [スキーをパラレルにするアプリを使った練習方法](yawing_similarity)
+- [モーグル](mogle)
