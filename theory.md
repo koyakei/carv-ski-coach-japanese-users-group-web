@@ -53,3 +53,4 @@
 - [ドルフィンターン](how_to_dolphin_turn)
 - [スキーをパラレルにするアプリを使った練習方法](yawing_similarity)
 - [モーグル](mogle)
+- [人体のピッチングですべての角運動量を発生させる運動を賄うべき](pitching_angular_moment)
