@@ -55,3 +55,4 @@
 - [モーグル](mogle)
 - [人体のピッチングですべての角運動量を発生させる運動を賄うべき](pitching_angular_moment)
 - [ピッチングモーメントを発生させる方法](pitching)
+- [スキーの物理デリングを既存のモデルに当てはめる](how_to_modeling_ski)
