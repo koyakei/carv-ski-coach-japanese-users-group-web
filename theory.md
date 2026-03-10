@@ -40,7 +40,7 @@
 - [前後方向の正しい加重中心の位置](point_of_fore_after_pressure_center)
 - [ターン前半で内倒しすぎたらどうするか？](how_to_recover_from_too_much_incline)
 - [高下駄でのバランストレーニング](balance_trainig_with_free_line_skate)
-- [踵で推進力を得てピッチングアップダウンせずにターンエンドまで加速する](how_to_thrust_with_pumping)
+- [股関節の屈曲　ピラティスのロールダウンで推進する方法](how_to_thrust_with_pumping)
 - [ブーツ](boots)
 - [雪面へ張り付く](improve_contact_to_road)
 - [ターン方向の定義](discrimination_between_left_and_right_turn)
