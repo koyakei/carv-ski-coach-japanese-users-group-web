@@ -52,7 +52,7 @@
 - [スキーの操作方法](how_to_control_ski)
 - [ドルフィンターン](how_to_dolphin_turn)
 - [スキーをパラレルにするアプリを使った練習方法](yawing_similarity)
-- [モーグル](mogle)
+- [モーグル](mougle)
 - [人体のピッチングですべての角運動量を発生させる運動を賄うべき](pitching_angular_moment)
 - [ピッチングモーメントを発生させる方法](pitching)
 - [スキーの物理デリングを既存のモデルに当てはめる](how_to_modeling_ski)
