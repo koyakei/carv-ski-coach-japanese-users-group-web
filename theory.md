@@ -58,3 +58,4 @@
 - [スキーの物理デリングを既存のモデルに当てはめる](how_to_modeling_ski)
 - [歩くことでスキーがうまくなる　スキーをすることでうまく歩ける](how_to_walk)
 - [スキーのモデリング](how_to_modeling_ski.md)
+- [スノーボードのピボットスリップ](pivot_slip_snowboard)
