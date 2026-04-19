@@ -59,3 +59,4 @@
 - [歩くことでスキーがうまくなる　スキーをすることでうまく歩ける](how_to_walk)
 - [スキーのモデリング](how_to_modeling_ski.md)
 - [スノーボードのピボットスリップ](pivot_slip_snowboard)
+- [左右のブーツの前傾角度を揃える方法](how_to_keep_same_pitching_boots_cuff_angle)
